@@ -2,12 +2,12 @@
 Projects regarding Natural Language Processing
 
 Required installations:
-*nltk
-*sklearn
-*pandas
-*numpy
-*matplotlib
-*seaborn
+* nltk
+* sklearn
+* pandas
+* numpy
+* matplotlib
+* seaborn
 
 ## 1. Statistical NLP
 ### a. POS_Tagging_based_on_Heuristics - word tokenization and part-of-speech tagging using sklearn libraries
